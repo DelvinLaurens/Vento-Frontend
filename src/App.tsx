@@ -3,8 +3,8 @@ import axios from 'axios';
 import * as XLSX from 'xlsx';
 import { Toaster, toast } from 'react-hot-toast';
 import { 
-  Package, Plus, Trash2, Search, Edit3, X, 
-  Box, DollarSign, LogIn, LogOut, Store, Eye, EyeOff, 
+  Package, Plus, Trash2, Search, Edit3,
+  Box, DollarSign,LogOut, Store, Eye, EyeOff, 
   Download, AlertCircle, Clock
 } from 'lucide-react';
 
